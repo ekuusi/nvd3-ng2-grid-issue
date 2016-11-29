@@ -6,7 +6,7 @@ declare let d3: any;
 @Component({
     selector: 'my-app',
     templateUrl: './app.component.html',
-    styleUrls: ['./app.component.css']
+    styleUrls: ['./nv.d3.min.css']
 })
 export class AppComponent {
 
